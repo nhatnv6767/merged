@@ -1,1 +1,24 @@
 //chứa đường dẫn đến các file con
+
+// Variables
+@import "./Helpers/variables";
+@import "./Helpers/mixins";
+
+// vendors
+
+// Base
+@import "./Base/reset";
+@import "./Base/customize";
+
+// Layouts
+@import "./Layouts/header";
+@import "./Layouts/footer";
+
+// components
+@import "./Components/button";
+
+// Pages
+@import "./Pages/home";
+
+// theme
+
